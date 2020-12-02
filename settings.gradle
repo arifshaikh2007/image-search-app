@@ -1,0 +1,4 @@
+rootProject.name='ImageSearch'
+include ':app'
+include ':domain'
+include ':data'

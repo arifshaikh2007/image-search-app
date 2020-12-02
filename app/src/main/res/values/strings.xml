@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageSearch</string>
+    <string name="submit_btn">Submit</string>
+    <string name="hint_enter_comment">Enter comment for this image</string>
+    <string name="initial_search_message">Enter search term to search images</string>
+    <string name="empty_search_result">No images found</string>
+    <string name="server_error_while_searching">Server error while searching, retry again</string>
+    <string name="network_error_while_searching">Network error while searching.\nCheck your network connection.</string>
+    <string name="enter_valid_comment">Enter valid comment.</string>
+    <string name="image_not_selected_text">Search and select image from left pane.</string>
+</resources>
